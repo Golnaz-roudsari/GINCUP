@@ -10,12 +10,17 @@ Ari Laaksonen - [@ajlaaksonen] (https://github.com/ajlaaksonen)
 Golnaz Roudsari  - [Golnaz-roudsari]
 
 
-The INPUT code calculates nucleation rates and saturation ratios by simulating molecular interactions in supercooled water films. It captures detailed physical parameters like surface tension, density, and vapor pressures over temperature ranges.
+This repository provides code to simulate **homogeneous ice nucleation in multilayer water films** adsorbed on insoluble atmospheric particles. It is based on the **Frenkel–Halsey–Hill (FHH) adsorption theory** combined with **classical nucleation theory (CNT)**.
 
-This code is designed to reproduce the results shown in our published paper. 
-- Computes critical cluster size and nucleation probabilities.
-- Implements adsorption, homogeneous nucleation rate models, and film growth.
-- Includes plotting routines for visualization.
+The model explains how the freezing temperature, critical cluster size, and nucleation rates vary with film thickness and substrate interaction strength. It supports experimental validation using silica particles and is designed to capture deposition ice nucleation behavior in the upper troposphere.
+
+
+## 📊 Features
+- Computes nucleation rate `J` and critical nucleus radius as a function of temperature
+- Models melting point depression in nanoscale water films
+- Simulates relative humidity thresholds (`RH_ice*`) for ice nucleation
+- Compares theoretical predictions with SPIN experiment data on silica
+- Includes plotting functionality for results visualization
 
 ## 📦 Requirements
   Python 3.x  
