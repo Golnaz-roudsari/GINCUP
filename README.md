@@ -1,4 +1,4 @@
-# INPUT-HomFilm
+# HomFilm
 This repository provides the Python implementation for simulating homogeneous filmwise ice nucleation in the upper troposphere. 
 This work supports the findings in our publication:
 Homogeneous ice nucleation in adsorbed water films: A theoretical approach
