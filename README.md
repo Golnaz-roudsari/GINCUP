@@ -7,6 +7,7 @@ Published in: Atmospheric Physics and Chemistry (ACP), 2025, https://doi.org/10.
 
 ## 👥 Authors:
 Ari Laaksonen - [@ajlaaksonen] (https://github.com/ajlaaksonen)
+Golnaz Roudsari  - [Golnaz-roudsari]
 
 
 The INPUT code calculates nucleation rates and saturation ratios by simulating molecular interactions in supercooled water films. It captures detailed physical parameters like surface tension, density, and vapor pressures over temperature ranges.
