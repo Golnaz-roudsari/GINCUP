@@ -7,12 +7,12 @@ Published in: Atmospheric Physics and Chemistry (ACP), 2025, https://doi.org/10.
 
 ## 👥 Authors:
 Ari Laaksonen - [@ajlaaksonen] (https://github.com/ajlaaksonen)
-Golnaz Roudsari  - [Golnaz-roudsari]
+Golnaz Roudsari  - [@Golnaz-roudsari]
 
 
 This repository provides code to simulate **homogeneous ice nucleation in multilayer water films** adsorbed on insoluble atmospheric particles. It is based on the **Frenkel–Halsey–Hill (FHH) adsorption theory** combined with **classical nucleation theory (CNT)**.
 
-The model explains how the freezing temperature, critical cluster size, and nucleation rates vary with film thickness and substrate interaction strength. It supports experimental validation using silica particles and is designed to capture deposition ice nucleation behavior in the upper troposphere.
+The model explains how the freezing temperature, critical cluster size, and nucleation rates vary with film thickness and substrate interaction strength. It supports experimental validation using silica particles and is designed to capture deposition ice nucleation behavior in the upper troposphere. We will develop this model for heterogenous and droplet wise nucleation
 
 
 ## 📊 Features
